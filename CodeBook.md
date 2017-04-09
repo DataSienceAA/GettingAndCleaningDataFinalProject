@@ -1,5 +1,6 @@
 
 
+
 **The Code Book**
 
 The code book describes the variables, the data, and transformations that were performed to clean up the data based on the project instructions.
@@ -11,6 +12,7 @@ The code book describes the variables, the data, and transformations that were p
 •	Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The original dataset includes the following files:
+
 •	'README.txt'
 
 •	'features_info.txt': Shows information about the variables used on the feature vector.
