@@ -1,3 +1,4 @@
+
 **The Code Book**
 
 The code book describes the variables, the data, and transformations that were performed to clean up the data based on the project instructions.
@@ -5,6 +6,7 @@ The code book describes the variables, the data, and transformations that were p
 **The Data Source**
 
 •	Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 •	Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The original dataset includes the following files:
